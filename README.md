@@ -1,1 +1,3 @@
-# upgraded-fortnight
+# Upgrade FortNight
+
+A repo with a stupid name
